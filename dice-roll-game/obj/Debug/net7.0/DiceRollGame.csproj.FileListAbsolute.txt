@@ -12,3 +12,17 @@
 /Users/nemi/Projects/programming_languages/cs/DiceRollGame/obj/Debug/net7.0/DiceRollGame.pdb
 /Users/nemi/Projects/programming_languages/cs/DiceRollGame/obj/Debug/net7.0/DiceRollGame.genruntimeconfig.cache
 /Users/nemi/Projects/programming_languages/cs/DiceRollGame/obj/Debug/net7.0/ref/DiceRollGame.dll
+/Users/nemi/Projects/programming_languages/cs/cs_programming_language/dice-roll-game/bin/Debug/net7.0/DiceRollGame
+/Users/nemi/Projects/programming_languages/cs/cs_programming_language/dice-roll-game/bin/Debug/net7.0/DiceRollGame.deps.json
+/Users/nemi/Projects/programming_languages/cs/cs_programming_language/dice-roll-game/bin/Debug/net7.0/DiceRollGame.runtimeconfig.json
+/Users/nemi/Projects/programming_languages/cs/cs_programming_language/dice-roll-game/bin/Debug/net7.0/DiceRollGame.dll
+/Users/nemi/Projects/programming_languages/cs/cs_programming_language/dice-roll-game/bin/Debug/net7.0/DiceRollGame.pdb
+/Users/nemi/Projects/programming_languages/cs/cs_programming_language/dice-roll-game/obj/Debug/net7.0/DiceRollGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nemi/Projects/programming_languages/cs/cs_programming_language/dice-roll-game/obj/Debug/net7.0/DiceRollGame.AssemblyInfoInputs.cache
+/Users/nemi/Projects/programming_languages/cs/cs_programming_language/dice-roll-game/obj/Debug/net7.0/DiceRollGame.AssemblyInfo.cs
+/Users/nemi/Projects/programming_languages/cs/cs_programming_language/dice-roll-game/obj/Debug/net7.0/DiceRollGame.csproj.CoreCompileInputs.cache
+/Users/nemi/Projects/programming_languages/cs/cs_programming_language/dice-roll-game/obj/Debug/net7.0/DiceRollGame.dll
+/Users/nemi/Projects/programming_languages/cs/cs_programming_language/dice-roll-game/obj/Debug/net7.0/refint/DiceRollGame.dll
+/Users/nemi/Projects/programming_languages/cs/cs_programming_language/dice-roll-game/obj/Debug/net7.0/DiceRollGame.pdb
+/Users/nemi/Projects/programming_languages/cs/cs_programming_language/dice-roll-game/obj/Debug/net7.0/DiceRollGame.genruntimeconfig.cache
+/Users/nemi/Projects/programming_languages/cs/cs_programming_language/dice-roll-game/obj/Debug/net7.0/ref/DiceRollGame.dll

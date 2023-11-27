@@ -1,28 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using DiceRollGame.Game;
 
-var dice = new Dice();
-var messages = new Messages();
-var input = new Input();
+var random = new Random();
+var dice = new Dice(random);
+var guessingGame = new GuessingGame(dice);
 
-messages.Start();
-
-do
-{
-    input.GetInput();
-    Console.WriteLine($"Your input: {input.Number}");
-    
-    if (dice.Guess(input.Number))
-    {
-        messages.Win();
-        break;
-    }
-    
-    messages.WrongNumber();
-    
-    if (dice.Guesses >= 3) messages.Lose();
-
-} while (dice.Guesses < 3);
-
-
-
-Console.ReadKey();
+GameResult gameResult = guessingGame.Play();
+GuessingGame.PrintResult(gameResult);
