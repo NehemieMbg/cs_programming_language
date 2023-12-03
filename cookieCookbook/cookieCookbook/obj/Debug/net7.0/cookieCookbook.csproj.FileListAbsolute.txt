@@ -1,0 +1,14 @@
+/Users/nemi/Projects/programming_languages/cs/cs_programming_language/cookieCookbook/cookieCookbook/bin/Debug/net7.0/cookieCookbook
+/Users/nemi/Projects/programming_languages/cs/cs_programming_language/cookieCookbook/cookieCookbook/bin/Debug/net7.0/cookieCookbook.deps.json
+/Users/nemi/Projects/programming_languages/cs/cs_programming_language/cookieCookbook/cookieCookbook/bin/Debug/net7.0/cookieCookbook.runtimeconfig.json
+/Users/nemi/Projects/programming_languages/cs/cs_programming_language/cookieCookbook/cookieCookbook/bin/Debug/net7.0/cookieCookbook.dll
+/Users/nemi/Projects/programming_languages/cs/cs_programming_language/cookieCookbook/cookieCookbook/bin/Debug/net7.0/cookieCookbook.pdb
+/Users/nemi/Projects/programming_languages/cs/cs_programming_language/cookieCookbook/cookieCookbook/obj/Debug/net7.0/cookieCookbook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nemi/Projects/programming_languages/cs/cs_programming_language/cookieCookbook/cookieCookbook/obj/Debug/net7.0/cookieCookbook.AssemblyInfoInputs.cache
+/Users/nemi/Projects/programming_languages/cs/cs_programming_language/cookieCookbook/cookieCookbook/obj/Debug/net7.0/cookieCookbook.AssemblyInfo.cs
+/Users/nemi/Projects/programming_languages/cs/cs_programming_language/cookieCookbook/cookieCookbook/obj/Debug/net7.0/cookieCookbook.csproj.CoreCompileInputs.cache
+/Users/nemi/Projects/programming_languages/cs/cs_programming_language/cookieCookbook/cookieCookbook/obj/Debug/net7.0/cookieCookbook.dll
+/Users/nemi/Projects/programming_languages/cs/cs_programming_language/cookieCookbook/cookieCookbook/obj/Debug/net7.0/refint/cookieCookbook.dll
+/Users/nemi/Projects/programming_languages/cs/cs_programming_language/cookieCookbook/cookieCookbook/obj/Debug/net7.0/cookieCookbook.pdb
+/Users/nemi/Projects/programming_languages/cs/cs_programming_language/cookieCookbook/cookieCookbook/obj/Debug/net7.0/cookieCookbook.genruntimeconfig.cache
+/Users/nemi/Projects/programming_languages/cs/cs_programming_language/cookieCookbook/cookieCookbook/obj/Debug/net7.0/ref/cookieCookbook.dll
