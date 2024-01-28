@@ -1,0 +1,14 @@
+/Users/nemi/Projects/programming_languages/cs/GameDataParser/GameDataParser/bin/Debug/net7.0/GameDataParser
+/Users/nemi/Projects/programming_languages/cs/GameDataParser/GameDataParser/bin/Debug/net7.0/GameDataParser.deps.json
+/Users/nemi/Projects/programming_languages/cs/GameDataParser/GameDataParser/bin/Debug/net7.0/GameDataParser.runtimeconfig.json
+/Users/nemi/Projects/programming_languages/cs/GameDataParser/GameDataParser/bin/Debug/net7.0/GameDataParser.dll
+/Users/nemi/Projects/programming_languages/cs/GameDataParser/GameDataParser/bin/Debug/net7.0/GameDataParser.pdb
+/Users/nemi/Projects/programming_languages/cs/GameDataParser/GameDataParser/obj/Debug/net7.0/GameDataParser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nemi/Projects/programming_languages/cs/GameDataParser/GameDataParser/obj/Debug/net7.0/GameDataParser.AssemblyInfoInputs.cache
+/Users/nemi/Projects/programming_languages/cs/GameDataParser/GameDataParser/obj/Debug/net7.0/GameDataParser.AssemblyInfo.cs
+/Users/nemi/Projects/programming_languages/cs/GameDataParser/GameDataParser/obj/Debug/net7.0/GameDataParser.csproj.CoreCompileInputs.cache
+/Users/nemi/Projects/programming_languages/cs/GameDataParser/GameDataParser/obj/Debug/net7.0/GameDataParser.dll
+/Users/nemi/Projects/programming_languages/cs/GameDataParser/GameDataParser/obj/Debug/net7.0/refint/GameDataParser.dll
+/Users/nemi/Projects/programming_languages/cs/GameDataParser/GameDataParser/obj/Debug/net7.0/GameDataParser.pdb
+/Users/nemi/Projects/programming_languages/cs/GameDataParser/GameDataParser/obj/Debug/net7.0/GameDataParser.genruntimeconfig.cache
+/Users/nemi/Projects/programming_languages/cs/GameDataParser/GameDataParser/obj/Debug/net7.0/ref/GameDataParser.dll
